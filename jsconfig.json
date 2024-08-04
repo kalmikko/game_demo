@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "checkJs": true,
+      "jsx": "preserve",
+      "baseUrl": ".",
+      "paths": {
+        "three": ["./node_modules/three"]
+      }
+    },
+    "exclude": ["node_modules"]
+  }  

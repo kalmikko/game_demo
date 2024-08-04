@@ -1,0 +1,22 @@
+{
+  "name": "game_demo",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "@types/three": "^0.167.1",
+    "noisejs": "^2.1.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "description": "\\game_demo> npm run start",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
